@@ -10,13 +10,15 @@
             width: 100%;
         }
         .auto-style2 {
-            width: 455px;
+        }
+        .auto-style3 {
+            width: 481px;
         }
     </style>
     <!--Testing by amresh-->
 </head>
 <body>
-<!--Avinash-->
+<!--Avinash made this change-->
     <form id="form1" runat="server">
     <div>
     
@@ -27,12 +29,15 @@
     </form>
     <table class="auto-style1">
         <tr>
-            <td class="auto-style2">&nbsp;</td>
+            <td class="auto-style2" colspan="2">Amresh Kumar</td>
+        </tr>
+        <tr>
+            <td class="auto-style3">&nbsp;</td>
             <td>
                 <input id="Button1" onclick="javascript: CloseWindow();" type="button" value="Close" /></td>
         </tr>
         <tr>
-            <td class="auto-style2">&nbsp;</td>
+            <td class="auto-style3">&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
     </table>
