@@ -29,7 +29,7 @@
     </form>
     <table class="auto-style1">
         <tr>
-            <td class="auto-style2" colspan="2">Amresh Kumar</td>
+            <td class="auto-style2" colspan="2">This is a testing project to demonstrate the GIT.</td>
         </tr>
         <tr>
             <td class="auto-style3">&nbsp;</td>
